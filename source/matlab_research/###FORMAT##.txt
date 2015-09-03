@@ -1,0 +1,16 @@
+##### NNDDxT-DSS #####
+
+[NN] Name
+- Patient Name
+
+[DD] Day
+- Date of symptoms (may not include)
+
+[T] Test Case Set 
+- Compare D to F with same number
+
+[D] D,F 
+- Dwi, FLAIR
+
+[SS] Slice
+- Slice number

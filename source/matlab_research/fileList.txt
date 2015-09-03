@@ -1,0 +1,46 @@
+D:\workspace\Matlab\research\chula hostpital\pure motor\PA07x1-D18.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PA07x1-F12.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PA07x2-D20.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PA07x2-F13.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PA30x1-D18.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PA30x1-F12.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PA30x2-D19.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PA30x2-F13.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PR03x1-D15.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\PR03x1-F10.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SA03x1-D21.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SA03x1-F14.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SA07x1-D21.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SA07x1-F14.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SA30x1-D20.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SA30x1-F13.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SM07x1-D21.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SM07x1-F14.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SU03x1-D17.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SU03x1-F12.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SU07x1-D18.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\SU07x1-F12.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\WA03x1-D16.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\WA03x1-F11.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\WA03x2-D18.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\WA03x2-F12.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\CH30x1-D19.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\CH30x1-F13.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\CH30x2-D20.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\CH30x2-F14.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\LA07x1-D19.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\LA07x1-F13.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\LA07x2-D21.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\LA07x2-F14.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\LA30x1-D19.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\LA30x1-F13.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\MA01x1-D16.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\MA01x1-F11.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\MA01x2-D18.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\MA01x2-F12.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\MA03x1-D18.dcm
+D:\workspace\Matlab\research\chula hostpital\pure motor\MA03x1-F12.dcm
+D:\workspace\Matlab\research\chula hostpital\ZFx1-D15.dcm
+D:\workspace\Matlab\research\chula hostpital\ZFx1-F10.dcm
+D:\workspace\Matlab\research\chula hostpital\ZFx3-D18.dcm
+D:\workspace\Matlab\research\chula hostpital\ZFx3-F12.dcm

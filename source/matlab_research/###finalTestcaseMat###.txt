@@ -1,0 +1,27 @@
+#### 10 patients, 23 images with description below ####
+
+#### var description ####
+D
+- DWI image in Dicom format
+Dname
+- source name of DWI image as ###Format###.txt
+F
+- FLAIR image in Dicom format
+Fname
+- source name of FLAIR image as ###Format###.txt
+Fparam
+- x1 of roi
+- x2
+- y1
+- y2
+- number of groups in multithreshold
+- threshold
+Fseg
+- segmentation of F using threshold in param along with decorations (hole filled up, noise removal)
+
+#### procedure ####
+1. FLAIRload
+2. FLARIthreshold
+3. FLAIRsegmentation
+4. DWIload
+5. variable name adjustment
