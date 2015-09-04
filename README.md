@@ -16,12 +16,12 @@ An  infarct segmentation software based on DWI (Diffusion-Weighted Magnetic Reso
 We tested several popular techniques including Otsu Method, Fuzzy C-means Clustering, Hill-Climbing based Segmentation, and Growcut. DWI test cases were extracted from 13 patients. We verified the result on Fluid-attenuated inversion recovery MRI (FLAIR MRI). For more information [(click here)](/paper.pdf).
 
 #File Structure
-- bin [binary software created by MATLAB]
-- layout [gui image]
+- bin                      [binary software created by MATLAB]
+- layout                   [gui image]
 - source
-  - matlab_gui [bin source code]
-  - matlab_research [research source code]
-  - gui.au3 [gui source code]
+  - matlab_gui             [bin source code]
+  - matlab_research        [research source code]
+  - gui.au3                [gui source code]
 - Infarct Segmentation.exe [main]
 - license agreement
 - paper.pdf
